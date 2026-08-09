@@ -1,0 +1,13 @@
+recovery_horizon,scenario_id,scenario_name,GroupCount,sum_volume_effect_reduces_risk,sum_composition_effect_reduces_risk
+3,coordinated,Coordinated,100,100,46
+3,delayed_coordination,Delayed Coordination,100,100,41
+3,early_mover,Early Mover,100,100,43
+3,sequential,Sequential,100,100,44
+5,coordinated,Coordinated,100,100,46
+5,delayed_coordination,Delayed Coordination,100,100,43
+5,early_mover,Early Mover,100,100,45
+5,sequential,Sequential,100,100,45
+7,coordinated,Coordinated,100,100,44
+7,delayed_coordination,Delayed Coordination,100,100,41
+7,early_mover,Early Mover,100,100,40
+7,sequential,Sequential,100,100,45

@@ -1,0 +1,31 @@
+model_id,iso3,country_name,capital_city,latitude,longitude,coordinate_basis,source
+1,DEU,Germany,Berlin,52.517036,13.38886,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+2,USA,United States,"Washington, D.C.",38.894986,-77.036571,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+3,CAN,Canada,Ottawa,45.421106,-75.690308,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+4,IDN,Indonesia,Jakarta,-6.175394,106.827183,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+5,MYS,Malaysia,Kuala Lumpur,3.151696,101.694237,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+6,CHN,China,Beijing,39.906217,116.391276,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+7,SWE,Sweden,Stockholm,59.325117,18.071094,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+8,BRA,Brazil,Brasília,-10.333333,-53.2,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+9,FIN,Finland,Helsinki,60.16741,24.942577,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+10,FRA,France,Paris,48.856697,2.351462,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+11,ESP,Spain,Madrid,40.416705,-3.703582,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+12,AUT,Austria,Vienna,48.208354,16.372504,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+13,ITA,Italy,Rome,41.89332,12.482932,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+14,RUS,Russian Federation,Moscow,55.750446,37.617494,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+15,BEL,Belgium,Brussels,50.846557,4.351697,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+16,NLD,Netherlands,Amsterdam,52.37276,4.893604,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+17,POL,Poland,Warsaw,52.233717,21.071411,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+18,GBR,United Kingdom,London,51.507322,-0.127647,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+19,ARG,Argentina,Buenos Aires,-34.607568,-58.437089,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+20,CZE,Czechia,Prague,50.087465,14.421254,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+21,LVA,Latvia,Riga,56.949398,24.105185,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+22,JPN,Japan,Tokyo,35.682839,139.759455,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+23,TUR,Turkey,Ankara,39.920777,32.854067,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+24,CHE,Switzerland,Bern,46.948271,7.451451,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+25,NOR,Norway,Oslo,59.91333,10.73897,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+26,THA,Thailand,Bangkok,13.754253,100.493087,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+27,PRT,Portugal,Lisbon,38.707751,-9.136592,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+28,CHL,Chile,Santiago,9.869479,-83.798075,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+29,KOR,Republic of Korea,Seoul,37.566679,126.978291,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
+30,SVK,Slovakia,Bratislava,48.151699,17.109306,capital city,https://api.worldbank.org/v2/country?format=json&per_page=400
