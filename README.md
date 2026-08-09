@@ -1,7 +1,7 @@
 # Adaptive Trade Network Model for Environmental Policy Sequencing
 
 This repository contains the MATLAB implementation used for the
-agent-based trade-network simulations in Chapter 2.
+agent-based trade-network simulations. 
 
 The model is a **stylised, mechanism-based adaptive trade-network
 model**, not a forecast of observed bilateral trade. Countries are
