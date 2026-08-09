@@ -1,0 +1,31 @@
+model_id,iso3,country_name,is_regulator,regulator_group,source
+1,DEU,Germany,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+2,USA,United States,1,US,https://www.usa.gov/
+3,CAN,Canada,0,NONE,
+4,IDN,Indonesia,0,NONE,
+5,MYS,Malaysia,0,NONE,
+6,CHN,China,0,NONE,
+7,SWE,Sweden,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+8,BRA,Brazil,0,NONE,
+9,FIN,Finland,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+10,FRA,France,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+11,ESP,Spain,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+12,AUT,Austria,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+13,ITA,Italy,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+14,RUS,Russian Federation,0,NONE,
+15,BEL,Belgium,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+16,NLD,Netherlands,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+17,POL,Poland,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+18,GBR,United Kingdom,1,UK,https://www.gov.uk/
+19,ARG,Argentina,0,NONE,
+20,CZE,Czechia,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+21,LVA,Latvia,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+22,JPN,Japan,0,NONE,
+23,TUR,Turkey,0,NONE,
+24,CHE,Switzerland,0,NONE,
+25,NOR,Norway,0,NONE,
+26,THA,Thailand,0,NONE,
+27,PRT,Portugal,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en
+28,CHL,Chile,0,NONE,
+29,KOR,Republic of Korea,0,NONE,
+30,SVK,Slovakia,1,EU,https://european-union.europa.eu/principles-countries-history/eu-countries_en

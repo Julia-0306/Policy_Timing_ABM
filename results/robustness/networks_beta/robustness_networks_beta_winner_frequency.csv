@@ -1,0 +1,13 @@
+beta,lowest_risk_scenario,GroupCount,Percent
+2,coordinated,30,10
+2,delayed_coordination,41,13.6666666666667
+2,early_mover,1,0.333333333333333
+2,sequential,28,9.33333333333333
+4,coordinated,18,6
+4,delayed_coordination,45,15
+4,early_mover,6,2
+4,sequential,31,10.3333333333333
+8,coordinated,27,9
+8,delayed_coordination,36,12
+8,early_mover,11,3.66666666666667
+8,sequential,26,8.66666666666667

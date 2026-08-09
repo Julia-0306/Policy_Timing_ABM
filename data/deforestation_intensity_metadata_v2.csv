@@ -1,0 +1,121 @@
+model_id,iso3,country_name,commodity,value,source_tier,source_basis,imputed,imputation_rule,notes
+1,DEU,Germany,palm_oil,0.05,Proxy,Default low risk for non-tropical non-specialized exporter,Yes,Default minimum risk value,No direct palm oil deforestation-risk estimate used in v1.
+1,DEU,Germany,soy,0.05,Proxy,Default low risk for non-major forest-risk soy exporter,Yes,Default minimum risk value,
+1,DEU,Germany,timber,0.7,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+1,DEU,Germany,paper,0.23,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+2,USA,United States,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+2,USA,United States,soy,0.15,Proxy,Major soy exporter but lower deforestation-risk than South American frontier exporters,Yes,Low-medium soy proxy,
+2,USA,United States,timber,0.15,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+2,USA,United States,paper,0.03,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+3,CAN,Canada,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+3,CAN,Canada,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+3,CAN,Canada,timber,0.01,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.20.
+3,CAN,Canada,paper,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.15.
+4,IDN,Indonesia,palm_oil,1.0,Proxy informed by known forest-risk patterns,Very high palm-oil deforestation-risk exporter,No,Assigned high-risk benchmark,Key high-risk palm oil exporter.
+4,IDN,Indonesia,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+4,IDN,Indonesia,timber,0.09,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.80.
+4,IDN,Indonesia,paper,0.01,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.40.
+5,MYS,Malaysia,palm_oil,0.85,Proxy informed by known forest-risk patterns,High palm-oil deforestation-risk exporter,No,Assigned high-risk palm oil proxy,
+5,MYS,Malaysia,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+5,MYS,Malaysia,timber,0.08,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.60.
+5,MYS,Malaysia,paper,0.01,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.35.
+6,CHN,China,palm_oil,0.1,Proxy,Low palm-oil producer risk in model sample,Yes,Low palm oil proxy,
+6,CHN,China,soy,0.1,Proxy,Low-medium soy risk proxy,Yes,Low-medium soy proxy,
+6,CHN,China,timber,0.13,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.40.
+6,CHN,China,paper,0.06,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.35.
+7,SWE,Sweden,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+7,SWE,Sweden,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+7,SWE,Sweden,timber,0.3,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+7,SWE,Sweden,paper,0.04,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+8,BRA,Brazil,palm_oil,0.1,Proxy,Low palm-oil risk relative to soy in this calibration,Yes,Low palm oil proxy,
+8,BRA,Brazil,soy,1.0,Proxy informed by known forest-risk patterns,Very high soy deforestation-risk exporter,No,Assigned high-risk benchmark,Key high-risk soy exporter.
+8,BRA,Brazil,timber,0.02,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.60.
+8,BRA,Brazil,paper,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.30.
+9,FIN,Finland,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+9,FIN,Finland,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+9,FIN,Finland,timber,0.31,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+9,FIN,Finland,paper,0.04,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+10,FRA,France,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+10,FRA,France,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+10,FRA,France,timber,0.2,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+10,FRA,France,paper,0.04,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+11,ESP,Spain,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+11,ESP,Spain,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+11,ESP,Spain,timber,0.07,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+11,ESP,Spain,paper,0.04,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+12,AUT,Austria,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+12,AUT,Austria,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+12,AUT,Austria,timber,0.49,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+12,AUT,Austria,paper,0.13,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+13,ITA,Italy,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+13,ITA,Italy,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+13,ITA,Italy,timber,0.11,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+13,ITA,Italy,paper,0.11,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+14,RUS,Russian Federation,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+14,RUS,Russian Federation,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+14,RUS,Russian Federation,timber,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.60.
+14,RUS,Russian Federation,paper,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.25.
+15,BEL,Belgium,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+15,BEL,Belgium,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+15,BEL,Belgium,timber,0.73,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+15,BEL,Belgium,paper,0.18,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+16,NLD,Netherlands,palm_oil,0.05,Proxy,Default low domestic deforestation risk,Yes,Default minimum risk value,Important trading hub but low exporter-origin risk in this row-based calibration.
+16,NLD,Netherlands,soy,0.05,Proxy,Default low domestic deforestation risk,Yes,Default minimum risk value,Trading hub caveat.
+16,NLD,Netherlands,timber,0.64,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+16,NLD,Netherlands,paper,1.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+17,POL,Poland,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+17,POL,Poland,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+17,POL,Poland,timber,0.43,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+17,POL,Poland,paper,0.05,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+18,GBR,United Kingdom,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+18,GBR,United Kingdom,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+18,GBR,United Kingdom,timber,0.37,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+18,GBR,United Kingdom,paper,0.14,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+19,ARG,Argentina,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+19,ARG,Argentina,soy,0.75,Proxy informed by known forest-risk patterns,High soy deforestation-risk exporter,No,Assigned high soy risk proxy,
+19,ARG,Argentina,timber,0.01,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+19,ARG,Argentina,paper,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+20,CZE,Czechia,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+20,CZE,Czechia,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+20,CZE,Czechia,timber,1.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+20,CZE,Czechia,paper,0.04,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+21,LVA,Latvia,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+21,LVA,Latvia,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+21,LVA,Latvia,timber,0.48,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.30.
+21,LVA,Latvia,paper,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.20.
+22,JPN,Japan,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+22,JPN,Japan,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+22,JPN,Japan,timber,0.15,Proxy,Low-medium forest-product risk proxy,Yes,Low-medium timber proxy,
+22,JPN,Japan,paper,0.2,Proxy,Medium-low paper proxy,Yes,Medium-low paper proxy,
+23,TUR,Turkey,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+23,TUR,Turkey,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+23,TUR,Turkey,timber,0.25,Proxy,Moderate timber proxy,Yes,Moderate timber proxy,
+23,TUR,Turkey,paper,0.15,Proxy,Low-medium paper proxy,Yes,Low-medium paper proxy,
+24,CHE,Switzerland,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+24,CHE,Switzerland,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+24,CHE,Switzerland,timber,0.36,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+24,CHE,Switzerland,paper,0.08,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+25,NOR,Norway,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+25,NOR,Norway,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+25,NOR,Norway,timber,0.1,Proxy,Low forest-product risk,Yes,Low forest-product proxy,
+25,NOR,Norway,paper,0.0,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+26,THA,Thailand,palm_oil,0.3,Proxy,Regional palm-oil exposure with medium risk,Yes,Medium palm oil proxy,
+26,THA,Thailand,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+26,THA,Thailand,timber,0.19,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.30.
+26,THA,Thailand,paper,0.03,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.20.
+27,PRT,Portugal,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+27,PRT,Portugal,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+27,PRT,Portugal,timber,0.47,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+27,PRT,Portugal,paper,0.05,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+28,CHL,Chile,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+28,CHL,Chile,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+28,CHL,Chile,timber,0.28,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.30.
+28,CHL,Chile,paper,0.01,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.20.
+29,KOR,Republic of Korea,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+29,KOR,Republic of Korea,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+29,KOR,Republic of Korea,timber,0.05,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+29,KOR,Republic of Korea,paper,0.18,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+30,SVK,Slovakia,palm_oil,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+30,SVK,Slovakia,soy,0.05,Proxy,Default low risk,Yes,Default minimum risk value,
+30,SVK,Slovakia,timber,0.53,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.
+30,SVK,Slovakia,paper,0.04,FAOSTAT_FO,"FAOSTAT Forestry Production and Trade (domain FO), 2015-2022 average. Roundwood production / forest area (timber); paper production / forest area (paper). Min-max normalised.",No,Data-derived,Updated from v1 proxy on 2026-06-21. Old value: 0.10.

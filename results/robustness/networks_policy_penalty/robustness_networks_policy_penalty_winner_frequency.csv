@@ -1,0 +1,13 @@
+policy_penalty,lowest_risk_scenario,GroupCount,Percent
+0.25,coordinated,28,9.33333333333333
+0.25,delayed_coordination,30,10
+0.25,early_mover,5,1.66666666666667
+0.25,sequential,37,12.3333333333333
+0.5,coordinated,18,6
+0.5,delayed_coordination,45,15
+0.5,early_mover,6,2
+0.5,sequential,31,10.3333333333333
+0.75,coordinated,21,7
+0.75,delayed_coordination,47,15.6666666666667
+0.75,early_mover,8,2.66666666666667
+0.75,sequential,24,8
