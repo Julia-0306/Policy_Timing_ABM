@@ -11,8 +11,7 @@ The model is implemented in MATLAB.
 Run all commands from the repository root.
 
 ## 2. Repository structure
-
-```text
+```
 project_root/
 │
 ├── README.md
@@ -51,6 +50,15 @@ project_root/
 │   └── create_network_figures.m
 │
 └── results/
+    ├── chapter2_results.mat
+    ├── scenario_summary.csv
+    ├── robustness/
+    │   └── ...
+    └── figures/
+        ├── Fig2.pdf
+        ├── Fig3.pdf
+        ├── Fig4.pdf
+        └── ...
 ```
 
 Do not change this directory structure because the MATLAB scripts construct paths relative to the repository root.
