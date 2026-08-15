@@ -1,11 +1,5 @@
 # ODD Model Description: Adaptive Trade-Network Model of Environmental Policy Timing
 
-> **Status:** Working ODD documentation for ABM Paper
-> **Protocol:** Structured according to the ODD (Overview, Design
-> concepts, Details) protocol of Grimm et al. (2020).\
-> **Purpose of this file:** Make the model logic transparent and provide
-> a checklist for the manuscript and supplementary material.
-
 ## 1. Purpose and patterns
 
 ### Purpose
