@@ -1,0 +1,12 @@
+mechanismID,mechanismLabel,scenarioID,scenarioName,finalFitness,finalRisk,finalTrade,finalRecoveringLinks,totalSwitches,localSwitches,globalSwitches
+M0_minimal,M0 Minimal adaptation,baseline,Baseline,103.111831189874,447.484848233769,2995.36313796486,0,2917,1415,1502
+M1_choice,M1 + Softmax choice,baseline,Baseline,96.8584058322625,447.484848233769,2995.36313796486,0,3660,1176,2484
+M2_frictions,M2 + Switching costs,baseline,Baseline,103.382052462143,447.484848233769,2995.36313796486,0,2556,1126,1430
+M3_recovery,M3 + Recovery,baseline,Baseline,129.01617088731,340.068294606446,2289.11335323437,125,2871,1125,1746
+M4_regulation,M4 + Regulation,baseline,Baseline,129.01617088731,340.068294606446,2289.11335323437,125,2871,1125,1746
+M4_regulation,M4 + Regulation,coordinated,Coordinated,127.502171174613,249.447418921059,1622.87282462919,281,5179,1728,3451
+M5_timing,M5 + Policy timing,baseline,Baseline,129.01617088731,340.068294606446,2289.11335323437,125,2871,1125,1746
+M5_timing,M5 + Policy timing,early_mover,Early Mover,131.044388117767,248.528260355926,1595.36704312235,277,5303,1694,3609
+M5_timing,M5 + Policy timing,sequential,Sequential,127.879967594918,243.366355798483,1573.91306066916,284,5268,1715,3553
+M5_timing,M5 + Policy timing,coordinated,Coordinated,127.502171174613,249.447418921059,1622.87282462919,281,5179,1728,3451
+M5_timing,M5 + Policy timing,delayed_coordination,Delayed Coordination,129.726214881408,229.014433113698,1544.61252871827,297,5321,1741,3580
