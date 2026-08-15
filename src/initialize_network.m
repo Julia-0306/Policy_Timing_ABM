@@ -440,10 +440,8 @@ state.recoveryTargetWeight = recoveryTargetWeight;
 
 end
 
-
-%% =========================================================================
 % LOCAL FUNCTIONS
-% =========================================================================
+
 
 function nIncoming = count_group_incoming_links(Ac, groupNodes)
 % COUNT_GROUP_INCOMING_LINKS
